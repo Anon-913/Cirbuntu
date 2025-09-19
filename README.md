@@ -24,3 +24,5 @@ Plan for this README
 This documentation will be updated as the community continues to develop this Distro but a dedicated wiki will be implemented if enough requests come through.
 
 This should be publicly accessible to contributors but if not the README can always be updated monthly to document and archive updates and changes to the distro.
+
+#All bug reports will be documented as tickets in another text document and all exploits and whether they have been fixed or not.
