@@ -5,8 +5,10 @@ An Arch-based OS based on the strongest Tohou character **Cirno**.
 
 Creator: Waffle Toaster (twitter anon)
 
-Contributors: Public and Waffle Toaster
-==================================
+Contributors: Public and Waffle Toaster 
+
+----------
+----------
 
 The Reasoning
 ------------------------------------
