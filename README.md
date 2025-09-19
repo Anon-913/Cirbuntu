@@ -11,9 +11,9 @@ Contributors: Public and Waffle Toaster
 The Reasoning
 ------------------------------------
 
-Q: Why Arch?
+*Q*: Why Arch?
 
-A: Arch comes with a built in ISO builder which requires all package managers and stuff to be added directly.
+*A*: Arch comes with a built in ISO builder which requires all package managers and stuff to be added directly.
 
 Since Cirbuntu is based on Ubuntu's desktop environment having a good grasp on the customization in terms of desktops and such would allow a good enough emulation of an Ubuntu desktop to make up the base distro change.
 
